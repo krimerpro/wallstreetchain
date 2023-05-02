@@ -477,7 +477,7 @@ To Buy And Sell Tokens</h2>		</div>
   <div class="funfact-content">
     <div class="number-percentage-wraper">
                   <span class="number-percentage"
-            data-value="1"
+            data-value="2"
             data-animation-duration="3500"
           data-style="static">0</span>
       BNB											</div>
