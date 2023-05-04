@@ -33,7 +33,7 @@
   <div class="elementor-element elementor-element-a83a657 elementor-align-left elementor-widget__width-auto animated-slow elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="a83a657" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:10}" data-widget_type="button.default" style="margin-left:20px;margin-top:20px">
   <div class="elementor-widget-container">
     <div class="elementor-button-wrapper">
-<a href="https://poocoin.app/tokens/0x198F7f05d4148d196D0d8873c2c788a6a7E63da8" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+<a href="https://poocoin.app/tokens/0x" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
       <span class="elementor-button-content-wrapper">
       <span class="elementor-button-text">POOCOIN CHART</span>
 </span>
