@@ -392,7 +392,7 @@ To Buy And Sell Tokens</h2>		</div>
           data-style="static">0</span>%
       											</div>
 
-    <h3 class="funfact-title">Buy Tax</h3>								</div>
+    <h3 class="funfact-title">Tax</h3>								</div>
 </div>
 </div>
 
@@ -417,12 +417,12 @@ To Buy And Sell Tokens</h2>		</div>
   <div class="funfact-content">
     <div class="number-percentage-wraper">
                   <span class="number-percentage"
-            data-value="3"
+            data-value="4"
             data-animation-duration="3500"
           data-style="static">0</span>
       %										</div>
 
-    <h3 class="funfact-title">Sell Tax</h3>								</div>
+    <h3 class="funfact-title">Max Buy/Sell</h3>								</div>
 </div>
 </div>
 
